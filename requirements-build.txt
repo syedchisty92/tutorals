@@ -11,4 +11,9 @@ pygments
 -r requirements-dev.txt
 
 
+<<<<<<< HEAD
 #changes in master
+=======
+# just for testing n git bash
+# again add commants for test.
+>>>>>>> thirsty
