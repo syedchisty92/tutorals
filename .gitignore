@@ -1,0 +1,15 @@
+.project
+.pydevproject
+.idea
+atest/results
+utest/output_dir
+*.pyc
+*.orig
+*py.class
+MANIFEST
+*.egg-info
+*.egg
+chromedriver.log
+
+dist
+build
